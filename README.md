@@ -5,6 +5,7 @@ This repository contains an archived HTML document on the topic of building coll
 Click this link to go to the website: https://archived2.github.io/When-Buildings-Collapse-by-Mark-Keim-2021/
 
 
-Original Citation: Keim, M. When Buildings Collapse. DisasterDoc https://disasterdoc.org/when-buildings-collapse/ (2021).
+Original Citation (Archive): Keim, M. When Buildings Collapse. DisasterDoc https://disasterdoc.org/when-buildings-collapse/ (2021).
 
 
+Cited prominent references: https://doi.org/10.1029/2022EF003219
